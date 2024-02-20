@@ -1,0 +1,157 @@
+///////////////////////////////////amodi
+
+                      /////up
+
+                      for(y=10;y<=23;y++){
+                       gotoxy(7,y);
+                       cout<<A;
+                      }//end of for
+
+                      for(y=10;y<=23;y++){
+                       gotoxy(18,y);
+                       cout<<A;
+                      }//end of for
+
+
+                      for(y=10;y<=23;y++){
+                       gotoxy(23,y);
+                       cout<<A;
+                      }//end of for
+
+                      for(y=10;y<=23;y++){
+                       gotoxy(34,y);
+                       cout<<A;
+                      }//end of for
+
+
+                      for(y=10;y<=23;y++){
+                       gotoxy(44,y);
+                       cout<<A;
+                      }//end of for
+
+                      for(y=10;y<=23;y++){
+                       gotoxy(55,y);
+                       cout<<A;
+                      }//end of for
+
+
+                      for(y=10;y<=23;y++){
+                       gotoxy(60,y);
+                       cout<<A;
+                      }//end of for
+
+                      for(y=10;y<=23;y++){
+                       gotoxy(71,y);
+                       cout<<A;
+                      }//end of for
+
+
+                      /////down
+
+                      for(y=27;y<=40;y++){
+                       gotoxy(7,y);
+                       cout<<A;
+                      }//end of for
+
+                      for(y=27;y<=40;y++){
+                       gotoxy(18,y);
+                       cout<<A;
+                      }//end of for
+
+
+                      for(y=27;y<=40;y++){
+                       gotoxy(23,y);
+                       cout<<A;
+                      }//end of for
+
+                      for(y=27;y<=40;y++){
+                       gotoxy(34,y);
+                       cout<<A;
+                      }//end of for
+
+
+                      for(y=27;y<=40;y++){
+                       gotoxy(44,y);
+                       cout<<A;
+                      }//end of for
+
+                      for(y=27;y<=40;y++){
+                       gotoxy(55,y);
+                       cout<<A;
+                      }//end of for
+
+
+                      for(y=27;y<=40;y++){
+                       gotoxy(60,y);
+                       cout<<A;
+                      }//end of for
+
+                      for(y=27;y<=40;y++){
+                       gotoxy(71,y);
+                       cout<<A;
+                      }//end of for
+
+                      /////////////////////////////////ofoghi
+
+                      for(x=9;x<=16;x++){
+                       gotoxy(x,9);
+                       cout<<A;
+                      }//end of for
+
+                      for(x=9;x<=16;x++){
+                       gotoxy(x,25);
+                       cout<<A;
+                      }//end of for
+
+                      for(x=9;x<=16;x++){
+                       gotoxy(x,41);
+                       cout<<A;
+                      }//end of for
+
+
+                      for(x=25;x<=32;x++){
+                       gotoxy(x,9);
+                       cout<<A;
+                      }//end of for
+
+                      for(x=25;x<=32;x++){
+                       gotoxy(x,25);
+                       cout<<A;
+                      }//end of for
+
+                      for(x=25;x<=32;x++){
+                       gotoxy(x,41);
+                       cout<<A;
+                      }//end of for
+
+
+                      for(x=46;x<=53;x++){
+                       gotoxy(x,9);
+                       cout<<A;
+                      }//end of for
+
+                      for(x=46;x<=53;x++){
+                       gotoxy(x,25);
+                       cout<<A;
+                      }//end of for
+
+                      for(x=46;x<=53;x++){
+                       gotoxy(x,41);
+                       cout<<A;
+                      }//end of for
+
+
+                      for(x=62;x<=69;x++){
+                       gotoxy(x,9);
+                       cout<<A;
+                      }//end of for
+
+                      for(x=62;x<=69;x++){
+                       gotoxy(x,25);
+                       cout<<A;
+                      }//end of for
+
+                      for(x=62;x<=69;x++){
+                       gotoxy(x,41);
+                       cout<<A;
+                      }//end of for
